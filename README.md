@@ -1,20 +1,21 @@
-#	prepare for firebase integration
+#Prepare for firebase integration
 - npm install -g firebase-tools  
 
 
-#get into react folder	
+#Get into react folder	
 - cd netflix-clone      
-- npm start   --> start react on local host 3000
+--> start react on local host 3000
+- npm start   
 	 
 	 
-#install axios to make requests from api
+#Install axios to make requests from api
 -npm i axios  
 		
 		
-refce --> to make tempalte quickly
+ #To make tempalte quickly --> refce 
 		
 			
-#deployed app: https://netflix-clone-9de73.web.app/
+#Deployed app: https://netflix-clone-9de73.web.app/
 
 # Getting Started with Create React App
 
