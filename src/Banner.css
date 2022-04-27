@@ -3,6 +3,9 @@
   color: whitesmoke;
   object-fit: contain;
   height: 448px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 .banner_contents {
