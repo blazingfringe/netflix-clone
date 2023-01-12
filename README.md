@@ -1,4 +1,6 @@
-#Prepare for firebase integration
+# Netflix Clone
+
+# Prepare for firebase integration
 - npm install -g firebase-tools  
 
 
